@@ -1,7 +1,9 @@
-package com.jeffkungu.architectureexample;
+package com.jeffkungu.architectureexample.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.jeffkungu.architectureexample.R;
 
 public class MainActivity extends AppCompatActivity {
 
